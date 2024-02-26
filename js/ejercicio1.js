@@ -2,7 +2,7 @@ console.log("Ejercicio A")
 
 var arrayGatos = ["😺", "😸", "😹", "🐈", "🐾", "⬛"];
 var subArrayGatos = arrayGatos.slice(0, 3);
-var cantidadDeGatos = 3;
+var cantidadDeGatos = 10;
 var i = 0;
 
 while (i < cantidadDeGatos) {
